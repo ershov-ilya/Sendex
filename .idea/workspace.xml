@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57c1e282-09cf-495e-9814-6ea1207776c6" name="Default" comment="" />
+    <list default="true" id="57c1e282-09cf-495e-9814-6ea1207776c6" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\GitHub\Sendex\core\components\sendex\model\sendex\mysql\sendexitem.class.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\Sendex\core\components\sendex\model\sendex\mysql\sendexitem.map.inc.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\GitHub\Sendex\core\components\sendex\model\sendex\sendexitem.class.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Sendex.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,7 +57,7 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
+    <option name="x" value="1672" />
     <option name="y" value="-8" />
     <option name="width" value="1696" />
     <option name="height" value="1066" />
@@ -83,7 +88,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -131,6 +135,70 @@
               <option name="myItemId" value="components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="core" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="schema" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -152,21 +220,22 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
-    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="options.lastSelected" value="settings.github" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
-    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PublishConfig" serverName="MODX Cloud" serverId="1e23d63d-ad2e-4899-b7a6-9094c1373b57" autoUpload="true" showNewOnTargetInSync="false">
     <servers>
@@ -230,7 +299,11 @@
       <created>1384412056706</created>
       <updated>1384412056706</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added schema">
+      <created>1385023298040</created>
+      <updated>1385023298040</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -254,22 +327,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1696" height="1066" extended-state="6" />
+    <frame x="1672" y="-8" width="1696" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32930845" sideWeight="0.49969825" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32858709" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.6702356" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32930845" sideWeight="0.5003018" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.24518201" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.6702356" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25347012" sideWeight="0.6710671" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25347012" sideWeight="0.67069155" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -288,7 +361,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="First commit from phpStorm" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit from phpStorm" />
+    <MESSAGE value="Added schema" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added schema" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -296,80 +370,55 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_build/build.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="57" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-          <folding />
-        </state>
+        <state line="12" column="57" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/data/transport.settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/resolvers/resolve.tables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561">
-          <folding />
-        </state>
+        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/build.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="57" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
-          <folding />
-        </state>
+        <state line="12" column="57" selection-start="322" selection-end="322" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/data/transport.settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="561" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/resolvers/resolve.tables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="51" selection-end="51" vertical-scroll-proportion="0.05782313" vertical-offset="0" max-vertical-offset="882" />
+        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/resolvers/resolve.tables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.38548753" vertical-offset="0" max-vertical-offset="882">
-          <folding />
-        </state>
+        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.38548753" vertical-offset="0" max-vertical-offset="882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/data/transport.settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="908">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="908" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/build.config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="224" selection-end="224" vertical-scroll-proportion="0.19274376" vertical-offset="0" max-vertical-offset="969">
-          <folding />
-        </state>
+        <state line="10" column="18" selection-start="224" selection-end="224" vertical-scroll-proportion="0.19274376" vertical-offset="0" max-vertical-offset="969" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="519" selection-end="519" vertical-scroll-proportion="0.28878823" vertical-offset="0" max-vertical-offset="1054" />
+      </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="519" selection-end="519" vertical-scroll-proportion="0.28878823" vertical-offset="0" max-vertical-offset="1054">
-          <folding />
-        </state>
       </provider>
     </entry>
   </component>
