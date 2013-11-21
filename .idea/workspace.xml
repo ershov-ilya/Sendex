@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57c1e282-09cf-495e-9814-6ea1207776c6" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\GitHub\Sendex\core\components\sendex\model\sendex\mysql\sendexitem.class.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\Sendex\core\components\sendex\model\sendex\mysql\sendexitem.map.inc.php" afterPath="" />
-      <change type="DELETED" beforePath="D:\GitHub\Sendex\core\components\sendex\model\sendex\sendexitem.class.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/components/sendex/model/sendex/metadata.mysql.php" afterPath="$PROJECT_DIR$/core/components/sendex/model/sendex/metadata.mysql.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sendex.iws" />
@@ -218,6 +216,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -303,7 +315,11 @@
       <created>1385023298040</created>
       <updated>1385023298040</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cleaning">
+      <created>1385023649033</created>
+      <updated>1385023649033</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -362,7 +378,8 @@
     </option>
     <MESSAGE value="First commit from phpStorm" />
     <MESSAGE value="Added schema" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added schema" />
+    <MESSAGE value="Cleaning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaning" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
