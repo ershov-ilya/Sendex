@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57c1e282-09cf-495e-9814-6ea1207776c6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/components/sendex/model/sendex/metadata.mysql.php" afterPath="$PROJECT_DIR$/core/components/sendex/model/sendex/metadata.mysql.php" />
+    <list default="true" id="57c1e282-09cf-495e-9814-6ea1207776c6" name="Default" comment="Generated model...">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sendex.iws" />
@@ -25,7 +24,35 @@
     <favorites_list name="Sendex" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="metadata.mysql.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/core/components/sendex/model/sendex/metadata.mysql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="67" selection-end="137" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="255">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resolve.tables.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_build/resolvers/resolve.tables.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="0" selection-start="457" selection-end="457" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="595">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sendex.mysql.schema.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/components/sendex/model/schema/sendex.mysql.schema.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="107" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.37777779" vertical-offset="0" max-vertical-offset="1326">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -46,6 +73,7 @@
       <list>
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/_build/build.config.php" />
+        <option value="$PROJECT_DIR$/_build/resolvers/resolve.tables.php" />
       </list>
     </option>
   </component>
@@ -230,6 +258,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resolvers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -249,7 +295,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="PublishConfig" serverName="MODX Cloud" serverId="1e23d63d-ad2e-4899-b7a6-9094c1373b57" autoUpload="true" showNewOnTargetInSync="false">
+  <component name="PublishConfig" serverName="MODX Cloud" serverId="1e23d63d-ad2e-4899-b7a6-9094c1373b57" autoUpload="true">
     <servers>
       <server id="02f603ff-3f2c-4e71-9e3c-df23b70a8137">
         <serverdata>
@@ -319,7 +365,15 @@
       <created>1385023649033</created>
       <updated>1385023649033</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Generated model...">
+      <created>1385024191586</created>
+      <updated>1385024191586</updated>
+    </task>
+    <task id="LOCAL-00005" summary="resolve.tables.php">
+      <created>1385024502372</created>
+      <updated>1385024502372</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="1">
@@ -358,7 +412,7 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297619" sideWeight="0.6702356" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25347012" sideWeight="0.67069155" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25347012" sideWeight="0.67069155" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -379,7 +433,9 @@
     <MESSAGE value="First commit from phpStorm" />
     <MESSAGE value="Added schema" />
     <MESSAGE value="Cleaning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaning" />
+    <MESSAGE value="Generated model..." />
+    <MESSAGE value="resolve.tables.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolve.tables.php" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -397,7 +453,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/resolvers/resolve.tables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561" />
+        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/build.config.php">
@@ -412,12 +470,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/resolvers/resolve.tables.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_build/resolvers/resolve.tables.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.38548753" vertical-offset="0" max-vertical-offset="882" />
+        <state line="20" column="43" selection-start="523" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="561">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_build/data/transport.settings.php">
@@ -436,6 +491,27 @@
       </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/components/sendex/model/sendex/metadata.mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="67" selection-end="137" vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_build/resolvers/resolve.tables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="457" selection-end="457" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/components/sendex/model/schema/sendex.mysql.schema.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="107" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.37777779" vertical-offset="0" max-vertical-offset="1326">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
