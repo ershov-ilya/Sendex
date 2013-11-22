@@ -1,5 +1,5 @@
 <?php
-echo 'Hello world';die;
+//echo 'Hello world';die;
 
 /**
  * Class SendexMainController
